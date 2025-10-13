@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nourabdallah10&label=Profile%20views&color=0e75b6&style=flat" alt="nourabdallah10" /> </p>
 
-- 📫 How to reach me **nouraldin.s.abdallah@gmail.com**
+- 📫 reach me **nouraldin.s.abdallah@gmail.com**
 
-- ⚡ Fun fact **Still debugging my life one commit at a time**
+- ⚡ **Still debugging my life one commit at a time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
