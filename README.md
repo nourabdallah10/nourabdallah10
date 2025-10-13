@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nouraldin</h1>
 <h3 align="center">Software Engineer</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=nourabdallah10&label=Profile%20views&color=0e75b6&style=flat" alt="nourabdallah10" />
 </p>
 
@@ -54,8 +54,3 @@
 
 ---
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=nourabdallah10&icon=0&color=0" alt="Profile Views Counter"/>
-  </a>
-</p>
