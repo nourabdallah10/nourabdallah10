@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nourabdallah10&label=Profile%20views&color=0e75b6&style=flat" alt="nourabdallah10" /> </p>
 
-- 📫 reach me => **nouraldin.s.abdallah@gmail.com**
+- 📫 Reach me => **nouraldin.s.abdallah@gmail.com**
 
 - ⚡ **Still debugging my life one commit at a time**
 
