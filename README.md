@@ -47,10 +47,5 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=nourabdallah10&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>
 </p>
 
-<h2 align="center">✍️ Random Dev Quote</h2>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</p>
-
 ---
 
